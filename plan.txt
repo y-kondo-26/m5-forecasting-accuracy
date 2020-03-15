@@ -1,0 +1,5 @@
+・週販予測して曜日の比率に割り当てる
+・そのまま日別を予測
+
+
+flags showing whether stores allowed purchases with SNAP food stamps
