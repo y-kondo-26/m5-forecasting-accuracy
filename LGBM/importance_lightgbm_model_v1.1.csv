@@ -1,0 +1,92 @@
+,importance,importance_normalized
+item_id,200746,1
+week,68679,0.342119
+store_id,12845,0.063986
+dayofweek,5917,0.029475
+days_from_release,4650,0.023164
+rolling_mean_t30,4310,0.02147
+rolling_mean_365_t7,3972,0.019786
+rolling_mean_t7,3928,0.019567
+rolling_std_t7,3709,0.018476
+rolling_mean_t180,3663,0.018247
+rolling_mean_365_t180,3475,0.01731
+rolling_mean_t90,3428,0.017076
+rolling_std_t180,3340,0.016638
+rolling_skew_t30,3237,0.016125
+rolling_mean_t60,3176,0.015821
+rolling_mean_365_t30,3166,0.015771
+rolling_std_t30,3019,0.015039
+rolling_kurt_t30,2884,0.014366
+shift_t28,2802,0.013958
+rolling_mean_365_t90,2713,0.013515
+sell_price,2544,0.012673
+rolling_mean_365_t60,2508,0.012493
+rolling_std_t90,2397,0.01194
+rolling_std_t60,2374,0.011826
+shift_t35,2365,0.011781
+month,2273,0.011323
+shift_t29,1949,0.009709
+shift_t30,1917,0.009549
+rolling_price_std_t30,1486,0.007402
+dept_id,1130,0.005629
+price_change_t365,1064,0.0053
+Christmas,863,0.004299
+rolling_price_std_t7,843,0.004199
+Chanukah End,794,0.003955
+is_weekend,786,0.003915
+state_id,746,0.003716
+year,670,0.003338
+Thanksgiving,567,0.002824
+days_from_finalsales,550,0.00274
+LaborDay,527,0.002625
+LentStart,475,0.002366
+Eid al-Fitr,467,0.002326
+Easter,454,0.002262
+LentWeek2,437,0.002177
+EidAlAdha,387,0.001928
+MartinLutherKingDay,347,0.001729
+Ramadan starts,338,0.001684
+Father's day,312,0.001554
+Halloween,298,0.001484
+snap_WI,288,0.001435
+Cinco De Mayo,275,0.00137
+Purim End,275,0.00137
+IndependenceDay,265,0.00132
+MemorialDay,265,0.00132
+price_change_t1,264,0.001315
+VeteransDay,258,0.001285
+StPatricksDay,245,0.00122
+SuperBowl,244,0.001215
+OrthodoxEaster,241,0.001201
+cat_id,237,0.001181
+ColumbusDay,236,0.001176
+snap_TX,235,0.001171
+event_type_1,218,0.001086
+OrthodoxChristmas,206,0.001026
+NewYear,194,0.000966
+PresidentsDay,193,0.000961
+snap_CA,172,0.000857
+NBAFinalsStart,165,0.000822
+Pesach End,161,0.000802
+NBAFinalsEnd,139,0.000692
+ValentinesDay,129,0.000643
+quarter,127,0.000633
+Mother's day,123,0.000613
+is_month_start,64,0.000319
+is_month_end,57,0.000284
+is_year_end,56,0.000279
+is_year_start,53,0.000264
+event_type_2,43,0.000214
+is_quarter_end,25,0.000125
+is_quarter_start,20,0.0001
+holiday,0,0
+rolling_mean_holiday_t180,0,0
+rolling_mean_holiday_t90,0,0
+rolling_mean_holiday_t60,0,0
+rolling_mean_holiday_t30,0,0
+rolling_mean_holiday_t7,0,0
+rolling_std_holiday_t180,0,0
+rolling_std_holiday_t90,0,0
+rolling_std_holiday_t60,0,0
+rolling_std_holiday_t30,0,0
+rolling_std_holiday_t7,0,0
